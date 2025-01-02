@@ -23,6 +23,7 @@ The "New World Grade" is an unified grading system based on the mondopoint scale
 Together with charts are going to be released as well editable 3d models in all the sizes, from children to adult.
 ______________________________________________________________________________________________________________________________________________
 The 3d model files are provided in lowpoly obj format, they need to be subdivided or used as control cage for a sub-d body.
+Then can be easily converted in NURBS or Mesh.
 ______________________________________________________________________________________________________________________________________________
 Project under development. Check out the main publication and discover the various branches with different last shapes.
 
