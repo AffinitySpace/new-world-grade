@@ -18,14 +18,19 @@
   \/_____/   \/_/ /_/   \/_/\/_/   \/____/   \/_____/   
 ```
 ______________________________________________________________________________________________________________________________________________                                                                                    
-                                                                                                                                                                                                                                                                  
-Collaborative project of the Future Footwear Department from the Affinity Space collective.
-The "New World Grade" is a unified grading system based on the mondopoint scale. 
+                                                                                                                                                                                                                                                        
+The "New World Grade" is an unified grading system based on the mondopoint scale. 
 Together with the charts are going to be released as well the library of different last shapes in all the sizes, from children to adult.
 ______________________________________________________________________________________________________________________________________________
 
-Check out the main publication doc and the single datasheet of the different last shapes.
+Project under development. Check out the main publication documentation and the specific datasheet of the different last shapes.
+
 Visit our website for more informations at affinityspace.studio
+
+If you are a specialist and think that you could contribute to the project please write us at "design@affinityspace.studio" with subject "NWG collab".
+We will be happy to hear from you, with the aim to set the bar higher, once again.
+
+If you are not a specialist but you want to help anyway, write us at "design@affinityspace.studio" or consider donating via our website.
 ______________________________________________________________________________________________________________________________________________
 ```
                                                                                           
@@ -53,3 +58,6 @@ ________________________________________________________________________________
                                                                                           
                                                                                           
 ```
+______________________________________________________________________________________________________________________________________________
+
+Collaborative project of the Future Footwear Department from the Affinity Space collective
