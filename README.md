@@ -20,7 +20,7 @@
 ______________________________________________________________________________________________________________________________________________                                                                                    
                                                                                                                                                                                                                                                         
 The "New World Grade" is an unified grading system based on the mondopoint scale. 
-Together with the charts are going to be released as well the library of different last shapes in all the sizes, from children to adult.
+Together with charts are going to be released as well editable 3d models in all the sizes, from children to adult.
 ______________________________________________________________________________________________________________________________________________
 
 Project under development. Check out the main publication and discover the various branches with different last shapes.
