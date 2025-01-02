@@ -19,7 +19,7 @@
 ```
 ______________________________________________________________________________________________________________________________________________                                                                                    
                                                                                                                                                                                                                                                                   
-Collaborative project from the Future Footwear Department of the Affinity Space collective.
+Collaborative project of the Future Footwear Department from the Affinity Space collective.
 The "New World Grade" is a unified grading system based on the mondopoint scale. 
 Together with the charts are going to be released as well the library of different last shapes in all the sizes, from children to adult.
 ______________________________________________________________________________________________________________________________________________
