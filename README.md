@@ -1,2 +1,3 @@
 # new-world-grade
-Library of last shapes for footwear development. A unified grading system called "New World Grade" is used for the development of all the sizes.
+Collaborative project from the Future Footwear Department of the Affinity Space collective, the "New World Grade" is a unified grading system based on the mondopoint scale. 
+Along with the charts will be provided as well a library of different last shapes in all the sizes for product development.
